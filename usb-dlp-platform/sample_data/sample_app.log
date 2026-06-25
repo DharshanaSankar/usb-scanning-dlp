@@ -1,0 +1,4 @@
+2026-06-20 09:14:02 INFO User login successful for user=anita.sharma@example.com
+2026-06-20 09:15:11 INFO Profile updated, contact phone set to 9123456789
+2026-06-20 09:20:45 WARNING Failed validation attempt for PAN ABCDE1234F
+2026-06-20 09:21:02 INFO Session closed normally

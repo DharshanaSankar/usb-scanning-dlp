@@ -1,0 +1,17 @@
+Project Status Update
+======================
+The Phase 1 prototype of the Secure USB Monitoring and Data
+Exfiltration Prevention System is now functional. This document
+contains no personally identifiable information and should be
+classified as LOW risk by the Sensitive Data Detection Engine.
+
+Milestones completed:
+- USB insertion/removal detection
+- File activity monitoring
+- Regex-based sensitive data scanning
+- Rule-based risk scoring
+- Policy-based allow/block decisions
+- Streamlit dashboard with four reporting pages
+
+Next milestone: Phase 2 will introduce machine learning based anomaly
+detection (Isolation Forest) and a manager approval workflow.

@@ -1,0 +1,5 @@
+customer_id,name,email,phone,pan,aadhaar
+1001,Anita Sharma,anita.sharma@example.com,9123456789,FGHIJ5678K,2345 6789 0123
+1002,Vikram Singh,vikram.singh@example.com,9988776655,LMNOP9012Q,3456 7890 1234
+1003,Priya Patel,priya.patel@example.com,9876501234,RSTUV3456W,4567 8901 2345
+1004,Suresh Iyer,suresh.iyer@example.com,9012345678,XYZAB7890C,5678 9012 3456
